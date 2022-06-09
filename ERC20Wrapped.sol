@@ -4,7 +4,7 @@
 *       Wrapped Phoenix WPHX          *
 * For all your in transit token needs *                      
 *       Forked by:KronicLabz          *
-**************************************/
+**************************************/  
 
 pragma solidity ^0.4.18;
 
