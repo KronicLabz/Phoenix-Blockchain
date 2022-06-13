@@ -1,7 +1,4 @@
 // SPDX-License-Identifier: MIT
-// File: lotto.sol
-
-
 pragma solidity ^0.8.11;
 
 /***************************
